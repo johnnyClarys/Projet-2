@@ -1,4 +1,5 @@
-# projet-2-booki-openclassroom
+projet-2-booki-openclassroom
+
 Deuxième projet du parcours javascript-react chez OpenClassrooms. 
 L'objectif est __d'intégrer la maquette d'un site de planification de vacances__ nommé "Booki" (voir l'image ci-dessous).
 ![image](https://user-images.githubusercontent.com/93211301/157113398-261b05fe-9007-4188-9b74-34749a895629.png)
@@ -16,8 +17,9 @@ des liens__. Ils doivent mener respectivement vers la section
 “Hébergements à Marseille” et “Activités à Marseille”.     
 
 ## Spécifications techniques        
-● __Deux maquettes ont été réalisées : l’une desktop et l’autre mobile__. Le
-site devra être également adapté aux formats tablette.      
+● Des maquettes ont été réalisées : desktop, tablett et mobile.
+
+   
 ● Il faut d’abord réaliser l’intégration en desktop first, puis les tablettes et enfin les téléphones.
 Plusieurs formats et tailles d’images ont été exportés. Il faudra choisir
 le format le plus adapté par rapport à la résolution et au temps de
@@ -35,4 +37,3 @@ Aucun framework CSS ne doit être utilisé.
 ● La maquette doit être compatible avec les dernières versions de
 __Google Chrome et de Mozilla Firefox.__   
 
-Venez visiter mon site  https://angelique31.github.io/P2--Booki/
