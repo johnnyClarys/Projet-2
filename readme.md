@@ -36,8 +36,13 @@ Aucun framework CSS ne doit être utilisé.
 ● La maquette doit être compatible avec les dernières versions de
 __Google Chrome et de Mozilla Firefox.__   
 
+
+
+## Validation W3C HTML : 
 ![image](https://github.com/johnnyClarys/projetagencevoyage/assets/158170498/b5b7d233-39f4-468b-ac71-ba97d4244405)
 
+
+## Validation W3C CSS : 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -47,5 +52,5 @@ __Google Chrome et de Mozilla Firefox.__
 </p>
      
 
-
+@johnny_clarys_février_2024
 
