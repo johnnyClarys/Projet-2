@@ -36,7 +36,6 @@ Aucun framework CSS ne doit être utilisé.
 ● La maquette doit être compatible avec les dernières versions de
 __Google Chrome et de Mozilla Firefox.__   
 
-![image](https://github.com/johnnyClarys/projetagencevoyage/assets/158170498/19ec8a0e-0f03-48d1-a832-160cb1e365ff)
 ![image](https://github.com/johnnyClarys/projetagencevoyage/assets/158170498/b5b7d233-39f4-468b-ac71-ba97d4244405)
 
 <p>
