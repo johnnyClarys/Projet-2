@@ -1,4 +1,4 @@
-projet-2-booki-openclassroom- By Johnny Clarys
+![image](https://github.com/johnnyClarys/projetagencevoyage/assets/158170498/19ec8a0e-0f03-48d1-a832-160cb1e365ff)projet-2-booki-openclassroom- By Johnny Clarys
 
 Deuxième projet du parcours Developpeur Web chez OpenClassrooms. 
 L'objectif est __d'intégrer la maquette d'un site de planification de vacances__ nommé "Booki"
@@ -35,6 +35,18 @@ Aucun framework CSS ne doit être utilisé.
 ● Le code doit être valide aux __validateurs W3C__ HTML et CSS.   
 ● La maquette doit être compatible avec les dernières versions de
 __Google Chrome et de Mozilla Firefox.__   
+
+
+![image](https://github.com/johnnyClarys/projetagencevoyage/assets/158170498/b5b7d233-39f4-468b-ac71-ba97d4244405)
+
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="CSS Valide !" />
+    </a>
+</p>
+     
 
 
 
