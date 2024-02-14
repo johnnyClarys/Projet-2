@@ -1,8 +1,7 @@
-projet-2-booki-openclassroom
+projet-2-booki-openclassroom- By Johnny Clarys
 
-Deuxième projet du parcours javascript-react chez OpenClassrooms. 
-L'objectif est __d'intégrer la maquette d'un site de planification de vacances__ nommé "Booki" (voir l'image ci-dessous).
-![image](https://user-images.githubusercontent.com/93211301/157113398-261b05fe-9007-4188-9b74-34749a895629.png)
+Deuxième projet du parcours Developpeur Web chez OpenClassrooms. 
+L'objectif est __d'intégrer la maquette d'un site de planification de vacances__ nommé "Booki"
 
 ## Spécifications fonctionnelles    
 ● Les usagers pourront rechercher des hébergements dans la ville de
@@ -36,4 +35,6 @@ Aucun framework CSS ne doit être utilisé.
 ● Le code doit être valide aux __validateurs W3C__ HTML et CSS.   
 ● La maquette doit être compatible avec les dernières versions de
 __Google Chrome et de Mozilla Firefox.__   
+
+
 
