@@ -437,6 +437,10 @@ ul
 
 @media screen and (max-width: 767px)
 {
+   body {
+    justify-content: center;
+    width: 100%;
+   }
 
     /* Style header */
 
@@ -528,15 +532,26 @@ ul
         display: flex;
         flex-direction: column;
     margin-top: 0px;
-    gap: 15px;
+    justify-content: center;
+    width: 320px;
     }
 
     .filtre-catégorie 
     {
     margin-bottom: 0px;
-    width: 160px;
+    width: 320px;
     }
+.portable1 {
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
+}
+.portable2 {
+    display: flex;
+    flex-direction: row;
+}
     .filtres p 
     {
     font-size: 11px;
@@ -590,6 +605,7 @@ ul
     {
         display: flex;
         flex-direction: column;
+        width: 320px;
     }
 
     .hébergements,
@@ -600,8 +616,9 @@ ul
 
     .hébergements
     {
-    width: 100%;
-    height: 1410px;
+    width: 320px;
+    height: 100%;
+    justify-content: center;
     }
 
     .carte-hébergements
@@ -613,7 +630,7 @@ ul
     .grid-hébergements 
     {
     grid-template-columns: 1fr;
-    grid-template-rows: 200px 200px 200px 200px 200px 200px;
+    width: 420px;
     }
 
     .afficher-plus
@@ -645,6 +662,7 @@ ul
     grid-template-rows: 190px 190px 190px 190px;
     margin-left: 20px;
     margin-right: 22px;
+    width: 420px;
     }
 
     /* Fin main */
@@ -708,7 +726,7 @@ ul
 
     .filtres
     {  display: flex;
-        flex-direction: column;
+        flex-direction: wrap;
     gap: 20px;
     width: 400px;
     }
