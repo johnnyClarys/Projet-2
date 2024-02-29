@@ -467,7 +467,7 @@ nav a:hover {
 }
 
 /** Smartphones **/
-@media screen and (max-width: 768px) and (min-width: 320px){
+@media screen and (max-width: 768px) and (min-width: 300px){
     .main-container {
         padding: 0;
     }
@@ -512,20 +512,25 @@ nav a:hover {
     }
     .map #search-mobile {
         display: flex;
-        border-radius: 15px;
-        width: 49px;
-        height: 49px;
         position: relative;
         right: 15px;
+        height: 37px;
+        color: #ffffff;
         align-items: center;
+        background-color: #0065FC;
+        border: none;
+        border-radius: 12px 12px 12px 12px;
         font-weight: bold;
-        justify-content: center;
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        font-size: 16px;
+        padding: 9px 12px 9px 12px;
+        cursor: pointer;
     }
     .map i {
         background-color: var(--main-color);
         color: #ffffff;
         height: 0;
+        width: 49px;
+        height: 49px;
     }
 /**  filters-section **/
     .filters-section {
